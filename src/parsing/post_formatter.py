@@ -483,7 +483,7 @@ class PostFormatter:
             else:  # NO_TITLE
                 title_html = None
 
-            # ---- sourcing ----
+            # ---- sourcing   ----
             if message_type == TELEGRAPH_MESSAGE:
                 sourcing_html = Link('Telegraph', param=self.telegraph_link).get_html()
                 if via_type == BARE_LINK_VIA and self.link:
