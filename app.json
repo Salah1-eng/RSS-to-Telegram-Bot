@@ -15,15 +15,15 @@
     ],
     "env": {
         "TOKEN": {
-            "description": "Your bot token. Get it from @BotFather",
+            "description": "8155102197:AAG2HJbUlPU9zHLYlBoTXSKxrHqUjwtavyU",
             "required": true
         },
         "MANAGER": {
-            "description": "Your Telegram user ID. Get it from @userinfobot",
+            "description": "5219830987",
             "required": true
         },
         "TELEGRAPH_TOKEN": {
-            "description": "Telegraph API access token. Get it from https://api.telegra.ph/createAccount?short_name=RSStT&author_name=Generated%20by%20RSStT&author_url=https%3A%2F%2Fgithub.com%2FRongronggg9%2FRSS-to-Telegram-Bot",
+            "description": "3a36ffae653423940d133e72c0147d85810d5cd706d31dbb346a51371d14",
             "required": false
         },
         "API_ID": {
